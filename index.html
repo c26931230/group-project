@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .box{
+            width: 30%;
+            border: 1px solid blue;
+            border-radius: 5px;
+            margin-left: 20px;
+            margin-bottom: 10px;
+            
+        }
+        img{
+            width: 100%;
+        }
+        a{
+            text-align: center;
+            display: inline-block;
+            width: 50%;
+            text-decoration: none;
+            font-size: 20px;
+            background-color: darkblue;
+            color: aliceblue;
+            padding: 5px;
+            border-radius: 5px;
+            margin-left: 50%;
+            /* margin-right: auto; */
+            transform: translateX(-50%);
+            margin-bottom: 5px;
+            margin-top: 5px;
+            
+        }
+        a:hover{
+            background-color: yellow;
+            color: black;
+            width: 60%;
+            transition: 0.5s;
+        }
+    </style>
+    <script src="https://unpkg.com/vue@next"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="box"  v-for="(item,index) in web" :key="item.id">
+            <a :href="item.link" target="_blank">{{item.title}}</a>
+            <img :src="item.image" alt="">
+        </div>
+    </div>
+    <script>
+        Vue.createApp({
+            data(){
+                return{
+                    web:[
+                        {
+                        id:1,
+                        title: "edition",
+                        image:"edition.png",
+                        link:"https://www.edition.one/sizes/create/8"
+                        },
+                        {
+                        id:2,
+                        title: "new_creater",
+                        image:"new_creater.png",
+                        link:"http://www.taiyokikaku.com/newcreators2022/"
+                        },
+                        {
+                        id:3,
+                        title: "style quiz",
+                        image:"style_quiz.png",
+                        link:"https://outfitformulas.com/quiz/"
+                        },
+                        {
+                        id:4,
+                        title: "stitchfix",
+                        image:"stitchfix.png",
+                        link:"https://www.stitchfix.com/onboarding/style-profile/edit#/fit_challenge_sleeves_component"
+                        },
+                        {
+                        id:5,
+                        title: "lakke",
+                        image:"lakke.png",
+                        link:"https://www.lakke.co.jp/iroha/shindan/"
+                        },
+                        {
+                        id:6,
+                        title: "pinterest",
+                        image:"pinterest1.png",
+                        link:"https://www.pinterest.com/pin/1759287344889215/"
+                        },
+
+                ]
+                    
+
+                }
+            }
+        }).mount('.container')
+    </script>
+</body>
+</html>
