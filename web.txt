@@ -41,3 +41,71 @@
 -我不知道怎麼買
 -我對穿搭沒信心
 -我沒時間去研究穿搭
+
+
+=========
+1.請選擇性別 
+*男
+*女
+
+2.你對目前你的穿搭風格有什麼看法？
+*很滿意
+*我想改變目前風格
+*我想要增加一些其他風格
+*我不清楚我目前的風格
+
+3.你目前遇到穿搭困擾是?
+*不知道怎麼挑衣服
+*我的穿搭沒信心
+*我沒時間研究穿搭
+
+4.哪種衣服 你較長穿
+*休閒服
+    4-1什麼時候會穿休閒服?
+    *上班時
+    *休假時
+    *在家時
+*襯衫
+    4-2什麼時候會穿襯衫?
+    *上班時
+    *休假時
+    *在家時
+
+5.穿上衣時 你喜歡?
+    *寬鬆
+    *合身
+    *剛好
+
+6.穿褲子時 你喜歡?
+    *寬鬆
+    *合身
+    *剛好
+
+7.喜歡的衣服長度
+    *短版
+    *剛好
+    *長版
+
+8.這是你喜歡的風格嗎? 
+男 女 各5
+日系 韓系 復古 美系 音樂家
+
+
+======訂閱
+Subscription Website
+https://webdesign.tutsplus.com/articles/how-to-design-the-front-page-of-a-subscription-website--cms-33966
+https://www.google.com/search?q=design+program+subscribe&sxsrf=ALiCzsYz_6PCtW0FN4YM1k5jH56kwC0mVA:1667453817250&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjokdPDpZH7AhVMpVYBHXXZDUIQ_AUoAXoECAIQAw&biw=1280&bih=601&dpr=1.5#imgrc=OnP6YdjaUBRJ3M&imgdii=u352EtB8dnFqYM
+服務介紹
+1.為甚麼要訂閱? //3大塊OR 1塊 分三個
+    *省錢
+    *救地球
+    *每月專屬搭配
+
+2.選擇你的方案(月費、專屬搭配、專屬造型師)
+    *基本
+    *標準
+    *高級
+3.
+已登入會員>直接結帳
+未登入>導入登入頁面>結帳
+
