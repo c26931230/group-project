@@ -59,7 +59,7 @@
 *我的穿搭沒信心
 *我沒時間研究穿搭
 
-4.哪種衣服 你較長穿
+4.哪種衣服你較常穿
 *休閒服
     4-1什麼時候會穿休閒服?
     *上班時
@@ -96,7 +96,7 @@ Subscription Website
 https://webdesign.tutsplus.com/articles/how-to-design-the-front-page-of-a-subscription-website--cms-33966
 https://www.google.com/search?q=design+program+subscribe&sxsrf=ALiCzsYz_6PCtW0FN4YM1k5jH56kwC0mVA:1667453817250&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjokdPDpZH7AhVMpVYBHXXZDUIQ_AUoAXoECAIQAw&biw=1280&bih=601&dpr=1.5#imgrc=OnP6YdjaUBRJ3M&imgdii=u352EtB8dnFqYM
 服務介紹
-1.為甚麼要訂閱? //3大塊OR 1塊 分三個
+1.訂閱風格
     *省錢
     *救地球
     *每月專屬搭配
